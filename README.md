@@ -7,7 +7,7 @@
     python -m virtualenv ir-juan-plazas
     pip install -r requirements.txt
 
-### **Run Synthetizer**
+### **Run Analysis**
 
     python acoustic_analysis.py
 
